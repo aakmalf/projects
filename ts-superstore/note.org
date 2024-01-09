@@ -1,0 +1,9 @@
+#+title:ts-superstore
+#+category: personal
+
+#+date: <2024-01-03 Wed>
+
+* todo list
+1. TODO learn again ts
+2. TODO download dataset
+3. TODO cookicuuter or just simple
