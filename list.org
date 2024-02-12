@@ -1,0 +1,16 @@
+#+title: List project
+#+author: Akmal
+
+
+* List Project
++ ts
++ ab
++ web scrapping
++ recsys
++ r or something for customer retain
++ online internship (bcg, jpmorgran, etc)
++ Basket
+
+
+* Web
++ Podomoro timer
